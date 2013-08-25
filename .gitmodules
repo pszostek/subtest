@@ -1,0 +1,3 @@
+[submodule "sovereign"]
+	path = sovereign
+	url = https://github.com/al3x/sovereign.git
